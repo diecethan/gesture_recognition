@@ -2,3 +2,4 @@ venv/
 .venv/
 $RECYCLE.BIN/
 .pt
+.DS_Store

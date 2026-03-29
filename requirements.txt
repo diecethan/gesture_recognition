@@ -1,2 +1,3 @@
-opencv-python
-ultralytics
+opencv-python==4.8.1.78
+numpy>=1.23,<2.0
+mediapipe==0.10.14      # python3.11
